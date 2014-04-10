@@ -142,4 +142,15 @@ body,body.ui-overlay-a{
 
 
 
+.theme_bg
+{
+	background-image:none;
+	background-repeat:no-repeat;
+	background-size:cover;	
+	background: radial-gradient(center bottom , circle cover , rgb(194, 44, 44) 24% , rgb(13, 217, 92) 50% , rgb(169, 90, 90) 59% , rgb(112, 208, 134) 70%);
+background: -o-radial-gradient(center bottom , circle cover , rgb(194, 44, 44) 24% , rgb(13, 217, 92) 50% , rgb(169, 90, 90) 59% , rgb(112, 208, 134) 70%);
+background: -ms-radial-gradient(center bottom , circle cover , rgb(194, 44, 44) 24% , rgb(13, 217, 92) 50% , rgb(169, 90, 90) 59% , rgb(112, 208, 134) 70%);
+background: -moz-radial-gradient(center bottom , circle cover , rgb(194, 44, 44) 24% , rgb(13, 217, 92) 50% , rgb(169, 90, 90) 59% , rgb(112, 208, 134) 70%);
+background: -webkit-radial-gradient(center bottom , circle cover , rgb(194, 44, 44) 24% , rgb(13, 217, 92) 50% , rgb(169, 90, 90) 59% , rgb(112, 208, 134) 70%);
+}
 
