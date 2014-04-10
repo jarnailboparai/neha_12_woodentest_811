@@ -154,16 +154,13 @@ body{
 
 
 
+@media (min-width: 100px) and (max-width: 399px) {
 .theme_bg
 {
-	background-image:none;
+	background-image:url(../images/app811port.jpg) ;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: radial-gradient(left top , circle cover , rgb(0, 0, 0) 1% , rgb(145, 239, 129) 74% , rgb(0, 0, 0) 80% , rgb(145, 123, 156) 83% , rgb(150, 204, 204) 89% , rgb(246, 161, 210) 95%);
-background: -o-radial-gradient(left top , circle cover , rgb(0, 0, 0) 1% , rgb(145, 239, 129) 74% , rgb(0, 0, 0) 80% , rgb(145, 123, 156) 83% , rgb(150, 204, 204) 89% , rgb(246, 161, 210) 95%);
-background: -ms-radial-gradient(left top , circle cover , rgb(0, 0, 0) 1% , rgb(145, 239, 129) 74% , rgb(0, 0, 0) 80% , rgb(145, 123, 156) 83% , rgb(150, 204, 204) 89% , rgb(246, 161, 210) 95%);
-background: -moz-radial-gradient(left top , circle cover , rgb(0, 0, 0) 1% , rgb(145, 239, 129) 74% , rgb(0, 0, 0) 80% , rgb(145, 123, 156) 83% , rgb(150, 204, 204) 89% , rgb(246, 161, 210) 95%);
-background: -webkit-radial-gradient(left top , circle cover , rgb(0, 0, 0) 1% , rgb(145, 239, 129) 74% , rgb(0, 0, 0) 80% , rgb(145, 123, 156) 83% , rgb(150, 204, 204) 89% , rgb(246, 161, 210) 95%);
+}
 }
 
 
